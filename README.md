@@ -13,7 +13,7 @@ Chattyfy was implemented as a graduation work project by four people: 박진수,
 전체적인 그림 && 채팅분석 에 대한 서술
 
 
-3. 결과
+3. 코드 설명
 
 
 4. 향후 발전 방향
