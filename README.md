@@ -17,3 +17,7 @@ Chattyfy was implemented as a graduation work project by four people: 박진수,
 
 
 4. 향후 발전 방향
+
+5. 참고문헌
+[1] https://stackoverflow.com/questions/59966120/how-to-add-statichtml-css-js-etc-files-in-pyinstaller-to-create-standalone
+[2] 
